@@ -39,6 +39,6 @@
     "line-awesome": "^1.3.0",
     "material-design-icons": "3.0.1",
     "themify-icons": "https://github.com/lykmapipo/themify-icons",
-    "xmldom": "^0.2.1"
+    "xmldom": "^0.6.0"
   }
 }
